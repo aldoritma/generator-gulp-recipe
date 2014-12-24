@@ -1,0 +1,22 @@
+body {
+	@include yiq-contrasted(#FFF);
+}
+
+header{
+	@include yiq-contrasted(#939393);
+	@include unit (padding, 10);
+	p {
+		margin: 0;
+	}
+}
+
+footer {
+	@extend header;
+	p {
+		margin: 0;
+	}
+}
+
+#container {
+	min-height: 800px;
+}
