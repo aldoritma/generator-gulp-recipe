@@ -1,5 +1,5 @@
 {
-  "name": "generator-gulp-recipe",
+  "name": "<%= _.slugify(appname) %>",
   "version": "1.0.1",
   "description": "Gulp starter with common tasks and scenarios",
   "repository": {
@@ -59,6 +59,7 @@
   },
   "dependencies": {
     "jquery": ">=1.11.0",
-    "npm-anila": ">=2.0.0"
+    "npm-anila": ">=2.0.0",
+    "yeoman-generator" : "~0.16.0"
   }
 }
