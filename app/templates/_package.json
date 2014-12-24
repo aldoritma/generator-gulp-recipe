@@ -1,6 +1,6 @@
 {
-  "name": "nrd-gulp-recipe",
-  "version": "0.1.0",
+  "name": "generator-gulp-recipe",
+  "version": "1.0.1",
   "description": "Gulp starter with common tasks and scenarios",
   "repository": {
     "type": "git",
