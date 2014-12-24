@@ -23,12 +23,12 @@ var GulpRecipe = yeoman.generators.Base.extend({
     this.log(this.yeoman);
 
     // description self generator
-    this.log(chalk.magenta('You\'re using the fantastic gulp-recipe for nrd.'));
+    this.log(chalk.magenta('WELCOME NARRADIANS!! You\'re using the fantastic gulp-recipe for nrd.'));
 
     var prompts = [{
         type: 'confirm',
         name: 'someOption',
-        message: 'Continue?',
+        message: 'Do you want continue narradians?',
         default: true
     }];
 
