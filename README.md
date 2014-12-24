@@ -1,6 +1,5 @@
-# generator-gulp-recipe [![Build Status](https://secure.travis-ci.org/aldoritma/generator-gulp-recipe.png?branch=master)](https://travis-ci.org/aldoritma/generator-gulp-recipe)
 
-> [Yeoman](http://yeoman.io) generator
+[Yeoman](http://yeoman.io) generator
 
 
 ## Getting Started
@@ -45,3 +44,6 @@ If you'd like to get to know Yeoman better and meet some of his friends, [Grunt]
 ## License
 
 MIT
+=======
+generator-gulp-recipe
+=====================
