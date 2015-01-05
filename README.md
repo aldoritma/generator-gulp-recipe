@@ -9,8 +9,11 @@ gulp
 
 #### Installation
 
+
 ```bash
-npm install -g generator-gulp-recipe
+mkdir your-procject-name
+cd your-project-name
+npm install generator-gulp-recipe
 yo gulp-recipe
 ```
 #### Usage
